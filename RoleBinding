@@ -5,7 +5,7 @@ metadata:
   namespace: ganesh
 subjects:
 - kind: User
-  name: <your-username>
+  name: admin
   apiGroup: rbac.authorization.k8s.io
 roleRef:
   kind: Role
